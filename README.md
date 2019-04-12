@@ -22,7 +22,7 @@ First, let's make sure we import `pandas` as `pd`.
 import pandas as pd
 ```
 
-To show how to access data with Pandas, let's use the "wine" data set in the scikit-learn library (you might have heard about this library before - you'll use it extensively when we get to machine learning!). Don't worry about the code below, we're essentially just making sure you have access to the wine data set.
+To show how to access data with Pandas, let's use the "wine" data set in the scikit-learn library. Don't worry about the code below, we're essentially just making sure you have access to the wine data set.
 
 The data contained in the wine data set are the results of a chemical analysis of wines grown in Italy. It contains the quantities of 13 wine constituents. 
 
